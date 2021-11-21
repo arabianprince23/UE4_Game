@@ -12,3 +12,14 @@ The visual part of the game simulates a tunnel in which the player is waiting fo
 The number of levels is infinite, with each new level contributing to the character's speed. Levels are procedurally generated: platforms are continuously generated. Platforms that passed the player are removed.
 
 Control via AWSD, or the usual arrows.
+
+
+### Sources
+
+https://www.youtube.com/watch?v=_a6kcSP8R1Y - **Significant tutorial for beginners**
+
+https://www.youtube.com/watch?v=iHwo167cDDg - UE4 tutorial
+
+https://www.youtube.com/watch?v=1ksgB6hYGrE - Procedural Mesh Generation
+
+https://www.youtube.com/watch?v=otPNSlIHwpg - Procedural Mesh Generation
