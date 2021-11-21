@@ -2,7 +2,6 @@
 
 - Technologies: Unreal Engine 4.
 - Genre: 3D platformer.
-- Rating: 7+.
 - User Number: single-player.
 - Maine mechanic: collecting coins.
 - Setting: Constant increase in speed.
